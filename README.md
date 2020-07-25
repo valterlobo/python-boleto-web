@@ -14,4 +14,4 @@ starlette :https://www.starlette.io/
 
 python3-boleto  (fork ): https://github.com/Trust-Code/python-boleto
 
-TODO : ADICONAR CONFIGURAÇÂO DO SERVIDORD -> http://supervisord.org/
+TODO : ADICONAR CONFIGURAÇÃO DE PROCESSOS -> http://supervisord.org/
